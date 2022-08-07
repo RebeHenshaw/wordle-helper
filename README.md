@@ -13,7 +13,7 @@ I struggled with consolidating the loops for checking againsts multiple lists (t
 
 Also, my initial button function does not follow the DOT prinicple and I need to consider how to break it down into simpler functions that do one thing. 
 
-[I uploaded this GUI version here.](https://replit.com/@zambonibecky/WordleHelperV2#main.py)
+[I uploaded this GUI version here.](https://replit.com/@zambonibecky/WordleHelperV2?v=1)
 
 I hope to update again soon as I learn more!
 
