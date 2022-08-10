@@ -13,6 +13,16 @@ I struggled with consolidating the loops for checking againsts multiple lists (t
 
 Also, my initial button function does not follow the DOT prinicple and I need to consider how to break it down into simpler functions that do one thing. 
 
+***update*** 8/9 : learned a few more Tkinter things. Unfortuntaely the program doesn't look the same at all on replit as the buttons are messed up(overlapping) and for some reason it doesn't recognize the image module PIL. Updated a slightly amended less quality version.
+
+I accomplished a few things in this rendition:
+1) Intead of quit I discovered how to clear the entries and labels (and then I didn't need quit or reset).
+2) Instead of dealing with overlapping labels, I figured out how to change (configure) the same label. 
+3) Made the buttons more organized/centered althought they don't look as good on replit.
+4) Added an image to it, (doesn't work in the replit version).
+
+[version 3](https://replit.com/@zambonibecky/WordleHelperV3#main.py)
+
 [I uploaded this GUI version here.](https://replit.com/@zambonibecky/WordleHelperV2?v=1)
 
 I hope to update again soon as I learn more!
