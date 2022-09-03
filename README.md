@@ -21,9 +21,9 @@ I accomplished a few things in this rendition:
 3) Made the buttons more organized/centered althought they don't look as good on replit.
 4) Added an image to it, (doesn't work in the replit version).
 
-[version 3](https://replit.com/@zambonibecky/WordleHelperV3#main.py)
+[version 3,fixed a few bugs]([https://replit.com/@zambonibecky/WordleHelperV3?embed=1])
 
-[I uploaded this GUI version here.](https://replit.com/@zambonibecky/WordleHelperV2?v=1)
+[I uploaded version 2 with GUI here.](https://replit.com/@zambonibecky/WordleHelperV2?v=1)
 
 I hope to update again soon as I learn more!
 
